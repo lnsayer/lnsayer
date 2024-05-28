@@ -5,7 +5,8 @@
 - 🧬 My Master's thesis used a deep CNN to predict protein conformational space 
 - 📊 You can find out more about me on my website: https://lnsayer.github.io//my-website/
 - 💼 I am looking for work in data science/machine learning!
-  Please get in touch about anything :)
+
+  Don't hesitate to get in touch about anything :)
 
 
 <!--
