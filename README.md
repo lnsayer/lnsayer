@@ -4,7 +4,7 @@
 - 🔬 I am currently working on my own machine learning projects, particularly with applications to biology (atm a GNN for enzyme inhibitor classification)
 - 🧬 My Master's thesis used a deep CNN to predict protein conformational space 
 - 📊 You can find out more about me on my website: https://lnsayer.github.io//my-website/
-- 💼 I am looking for work in data science/machine learning!
+- 💼 I am looking for work in data science/data analytics/machine learning/!
 
   Don't hesitate to get in touch about anything :)
 
