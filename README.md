@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## I am a physics graduate and aspiring data scientist
-- 🔬 I am currently working on my own machine learning projects, particularly with applications to biology (atm a GNN for enzyme inhibitor classification) [drug discovery with BACE dataset](https://github.com/lnsayer/personal_repo/tree/9fcabdf1654f72b87d55871650d1adb9bc8ee41f/drug%20discovery%20with%20BACE%20dataset)
+- 🔬 I am currently working on my own machine learning projects, particularly with applications to biology (atm a GNN for enzyme inhibitor classification) [drug discovery with BACE dataset]([https://github.com/lnsayer/personal_repo/tree/9fcabdf1654f72b87d55871650d1adb9bc8ee41f/drug%20discovery%20with%20BACE%20dataset](https://github.com/lnsayer/drug_discovery_with_bace_dataset))
 - 🧬 My Master's thesis used a deep CNN to predict protein conformational space [Master's thesis](https://github.com/lnsayer/lnsayer.github.io/blob/6011a77f41315e02e5b1b100ca6b80d798e63baf/files/summative_report.pdf)
 - 📊 You can find out more about me on my website: https://lnsayer.github.io//my-website/
 - 💼 I am looking for work in data science/data analytics/machine learning!
